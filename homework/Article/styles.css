@@ -1,0 +1,53 @@
+
+
+
+@font-face {
+    font-family: 'Editorial';
+    font-weight: normal;
+    font-style: normal;
+    src: url('PPEditorialNew-Ultralight.woff') format('woff');
+}
+  
+@font-face {
+    font-family: 'Suisse';
+    font-weight: normal;
+    font-style: normal;
+    src: url('suisseintl-light.woff') format('woff');
+}
+
+body {
+    background-color: rgb(219, 221, 219);
+  }
+
+/* Solid border */
+hr.solid {
+    border-top: 1px solid #000;
+    border-bottom: #000;
+  }
+
+h1 {
+    color: black;
+    font-size: 50px;
+}
+
+h2 {
+    
+    color: black;
+    font-size: 40px;
+}
+
+h3 {
+    
+    color: black;
+    font-size: 30px;
+}
+
+p {
+
+    color: black;
+    font-size: 18px;
+}
+
+li {
+    font-size: 15px;
+}
